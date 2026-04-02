@@ -1,0 +1,10 @@
+{
+  "name": "cmux-split",
+  "description": "cmux ペイン分岐 — 現在の会話を新しいペインに分岐し、元セッションを継続する",
+  "version": "1.0.0",
+  "author": {
+    "name": "H-Noguchi-josys",
+    "email": "h.noguchi@josys.com"
+  },
+  "license": "MIT"
+}
