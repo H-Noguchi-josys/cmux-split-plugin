@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "cmux-split",
-      "source": ".",
+      "source": "./plugins/cmux-split",
       "description": "cmux ペイン分岐 — 現在の会話を新しいペインに分岐し、元セッションを継続する",
       "version": "1.0.0",
       "author": {
